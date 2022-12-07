@@ -87,7 +87,7 @@ Several data sources were used in order to complete the calculation. Regarding <
 However, concerning <a id="ancora2">Relative momentum</a>, it was necessary to gather data from Qlib python module (Ibovespa historical stock constituints, updated each 4 months). Stock daily closing prices were wrangled from Yfinance module and, when not found at this source, webscrapping from [Fundamentus](https://www.fundamentus.com.br/) was done. Important to notice that a fraction of the index constituints had no free data available neither on Yfinance module nor at Fundamentus website.
 
 ##  🧮Calculation and 🧾Results
-- Absolute momentum 💻[Notebook](\abs_momentum.ipynb)
-- Relative momentum 💻[Notebook](\rel_momentum.ipynb)
+- Absolute momentum 💻[Notebook](https://github.com/rpacco/momentum_studies/blob/ae29acd23f59792700c9899f4b6c4a2c1285f32f/abs_momentum.ipynb)
+- Relative momentum 💻[Notebook](https://github.com/rpacco/momentum_studies/blob/ae29acd23f59792700c9899f4b6c4a2c1285f32f/rel_momentum.ipynb)
 
 </div>
