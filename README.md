@@ -90,4 +90,12 @@ However, concerning <a id="ancora2">Relative momentum</a>, it was necessary to g
 - Absolute momentum 💻[Notebook](https://github.com/rpacco/momentum_studies/blob/ae29acd23f59792700c9899f4b6c4a2c1285f32f/abs_momentum.ipynb)
 - Relative momentum 💻[Notebook](https://github.com/rpacco/momentum_studies/blob/ae29acd23f59792700c9899f4b6c4a2c1285f32f/rel_momentum.ipynb)
 
+## 🔨Tools
+- Pandas
+- Numpy
+- Scikit-Learn (Linear Regression)
+- Yahoo Finance
+- Matplotlib
+- Requests (web-scrapping)
+
 </div>
